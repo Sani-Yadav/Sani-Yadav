@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Django Projects  
 - 🌱 Learning Data Structures & Algorithms  
 - 💬 Ask me about Python, Django, Full-Stack Development  
-- 📫 Reach me at: [Your Email or LinkedIn]  
+- 📫 Reach me at: [saniyadav7755@gmail.com]  
 
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sani-Yadav&layout=compact)  
